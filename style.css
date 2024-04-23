@@ -29,7 +29,7 @@ body {
 }
 
 .Sobre{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: 
     color:white;
     display: flex;
     justify-content: center;
@@ -79,7 +79,7 @@ estudante
 }
 
 .rodape-imagem{
-     background-color: black;
+    background-color: black;
     color: white;
     display: flex;
     justify-content: space-around;
