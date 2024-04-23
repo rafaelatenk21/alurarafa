@@ -1,4 +1,4 @@
-*{
+{
     margin: 0;
     padding: 0;
 }
@@ -30,7 +30,7 @@ body {
 
 .Sobre{
     background-image: linear-gradient (white);
-    color:white;
+    color:black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,10 +80,6 @@ body {
 
 .rodape-imagem{
     background-color: black;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
     padding: 24px 0;
    
 }
