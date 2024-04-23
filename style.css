@@ -15,7 +15,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 20%px;
 }
 
 .cabecalho-lista-item{
@@ -29,28 +29,28 @@ body {
 }
 
 .Sobre{
-    background-image: 
+    background-image: linear-gradient (white);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
 }
-estudante
+
 .Sobre-div-conteudo{
     width: 35%;
 }
 
 
 .Sobre-titulo{
-    padding: 24px 0;
+    padding: 40px 0;
 }
 
 .Tipos de bebidas{
     padding: 24px 0;
 }
 .Tipos de bebidas-imagem{
-    width: 120px;
+    width: 150px;
 }
 
 .Tipos de bebidas -icone{
@@ -65,7 +65,7 @@ estudante
 
 .Tipos de bebidas-titulo{
     text-align: center;
-    padding: 50px 0;
+    padding: 24px 0;
 }
 
 .Tipos de bebidas-todos{
@@ -74,8 +74,8 @@ estudante
 }
 
 .rodape{
-    background-color: black;
-    text-align: center;
+    background-image: linear-gradient (white) ;
+    text-align: black;
 }
 
 .rodape-imagem{
